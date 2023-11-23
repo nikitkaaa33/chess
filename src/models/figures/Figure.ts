@@ -5,10 +5,10 @@ import { Colors } from "../Colors";
 export enum FiguresNames {
 	FIGURE = "Фигура",
 	KING = "Король",
-	KNIGHT = "Конь",
-	PAWN = "Пешка",
-	QUEEN = "Ферзь",
-	ROOK = "Ладья",
+	KNIGHT = "Кінь",
+	PAWN = "Пішак",
+	QUEEN = "Королева",
+	ROOK = "Тура",
 	BISHOP = "Слон",
 }
 
